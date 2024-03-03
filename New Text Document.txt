@@ -1,1 +1,2 @@
 Editing file
+This is line 2
